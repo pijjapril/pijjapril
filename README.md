@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pijjapril
-- 👀 I’m interested in swift, java, kotlin, react native, and django
+- 👀 I’m interested in java, OracleDB, swift, kotlin, and django
 - 🌱 I’m currently learning Industrial System Engineering
 - 💞️ I’m looking to collaborate on anyone can teach me
 - 📫 ksholic0426@gmail.com
